@@ -1,4 +1,4 @@
 evolute-open
 ============
 
-Source code for various thinks related to http://evolute.pt
+Source code for various things related to http://evolute.pt
